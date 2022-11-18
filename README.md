@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Discovering -Git LFS-](https://ismailouahbi.medium.com/discovering-git-lfs-26edf10d9179?source=rss-1bc86c8c012c------2)
 - [Data Analysis For Question Answering](https://ismailouahbi.medium.com/data-analysis-for-question-answering-efa88df7efe5?source=rss-1bc86c8c012c------2)
 - [-New Project- Are you sure you are going to complete it?](https://ismailouahbi.medium.com/new-project-are-you-sure-you-are-going-to-complete-it-f38c5d5ede20?source=rss-1bc86c8c012c------2)
 - [Algorithm-related problems-ML-](https://ismailouahbi.medium.com/algorithm-related-problems-ml-a34778dc4699?source=rss-1bc86c8c012c------2)
 - [Data-related problems-ML- &lpar;part III&rpar;](https://ismailouahbi.medium.com/data-related-problems-ml-part-iii-4e351a01f8d9?source=rss-1bc86c8c012c------2)
-- [Data-related problems-ML-&lpar;part II&rpar;](https://ismailouahbi.medium.com/data-related-problems-ml-part-ii-b8050aa43aed?source=rss-1bc86c8c012c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
