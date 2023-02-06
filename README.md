@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Jupyter notebook still practical?](https://ismailouahbi.medium.com/is-jupyter-notebook-still-practical-d5892ffd6e51?source=rss-1bc86c8c012c------2)
 - [Blackbox -AI-Powered Coding Assistant-](https://ismailouahbi.medium.com/blackbox-ai-powered-coding-assistant-803df8633a9f?source=rss-1bc86c8c012c------2)
 - [visualpython](https://ismailouahbi.medium.com/visualpython-27c2de0a2ff1?source=rss-1bc86c8c012c------2)
 - [Discovering -Git LFS-](https://ismailouahbi.medium.com/discovering-git-lfs-26edf10d9179?source=rss-1bc86c8c012c------2)
 - [Data Analysis For Question Answering](https://ismailouahbi.medium.com/data-analysis-for-question-answering-efa88df7efe5?source=rss-1bc86c8c012c------2)
-- [-New Project- Are you sure you are going to complete it?](https://ismailouahbi.medium.com/new-project-are-you-sure-you-are-going-to-complete-it-f38c5d5ede20?source=rss-1bc86c8c012c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
