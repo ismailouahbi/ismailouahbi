@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dimensionality Reduction Techniques -part I-](https://ismailouahbi.medium.com/dimensionality-reduction-techniques-part-i-e9b65ba8056d?source=rss-1bc86c8c012c------2)
 - [Gradio — Build, deploy, and share your Machine Learning Models —](https://ismailouahbi.medium.com/gradio-build-deploy-and-share-your-machine-learning-models-7b38baba659c?source=rss-1bc86c8c012c------2)
 - [Black Box thinking-learn hard things-](https://ismailouahbi.medium.com/black-box-thinking-learn-hard-things-a850bfb2dc94?source=rss-1bc86c8c012c------2)
 - [Is Jupyter notebook still practical?](https://ismailouahbi.medium.com/is-jupyter-notebook-still-practical-d5892ffd6e51?source=rss-1bc86c8c012c------2)
 - [Blackbox -AI-Powered Coding Assistant-](https://ismailouahbi.medium.com/blackbox-ai-powered-coding-assistant-803df8633a9f?source=rss-1bc86c8c012c------2)
-- [visualpython](https://ismailouahbi.medium.com/visualpython-27c2de0a2ff1?source=rss-1bc86c8c012c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
