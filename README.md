@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://ismailouahbi.me)
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://ismailouahbi.github.io/)
 <h1 align="center">Hello world 👋, I'm Ismail Ouahbi</h1>
 <h3 align="center">A passionate data science student from Morocco</h3>
 
