@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailouahbi" alt="ismailouahbi" /></a> </p>
 
-- 🔭 I’m currently working on [real projects & content creation](https://ismailouahbi.me/#projects)
+- 🔭 I’m currently working on [real projects & content creation](https://ismailouahbi.github.io/projects.html)
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://ismailouahbi.me/](https://ismailouahbi.me/)
+- 👨‍💻 All of my projects are available at [https://ismailouahbi.me/](https://ismailouahbi.github.io/projects.html)
 
 - 📝 I regularly write articles on [https://ismailouahbi.medium.com/](https://ismailouahbi.medium.com/)
 
