@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://ismailouahbi.me/](https://ismailouahbi.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [My portfolio](https://ismailouahbi.github.io/projects.html)
 
 - 📝 I regularly write articles on [https://ismailouahbi.medium.com/](https://ismailouahbi.medium.com/)
 
