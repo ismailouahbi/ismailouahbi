@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://ismailouahbi.github.io/projects.html)
 
-- 📝 I regularly write articles on [https://ismailouahbi.medium.com/](https://ismailouahbi.medium.com/)
+- 📝 I regularly write articles on [Medium](https://ismailouahbi.medium.com/)
 
 - 💬 Ask me about **ML, Data science, Data engineering**
 
