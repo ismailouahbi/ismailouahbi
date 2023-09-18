@@ -23,11 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Secrets of Casablanca’s Stock Market: part I](https://ismailouahbi.medium.com/unlocking-the-secrets-of-casablancas-stock-market-part-i-605fe487f0ee?source=rss-1bc86c8c012c------2)
 - [10 Essential Tools for Data Scientists: A Comprehensive Guide -2023-](https://ismailouahbi.medium.com/10-essential-tools-for-data-scientists-a-comprehensive-guide-2023-354907f8a1a6?source=rss-1bc86c8c012c------2)
 - [I did a full analysis using the new ChatGPT Code Interpreter](https://ismailouahbi.medium.com/i-did-a-full-analysis-using-the-new-chatgpt-code-interpreter-41f2ee9de870?source=rss-1bc86c8c012c------2)
 - [Dimensionality Reduction Techniques -part I-](https://ismailouahbi.medium.com/dimensionality-reduction-techniques-part-i-e9b65ba8056d?source=rss-1bc86c8c012c------2)
 - [Gradio — Build, deploy, and share your Machine Learning Models —](https://ismailouahbi.medium.com/gradio-build-deploy-and-share-your-machine-learning-models-7b38baba659c?source=rss-1bc86c8c012c------2)
-- [Black Box thinking-learn hard things-](https://ismailouahbi.medium.com/black-box-thinking-learn-hard-things-a850bfb2dc94?source=rss-1bc86c8c012c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
